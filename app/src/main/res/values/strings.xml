@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">My Favorite FF7 Characters</string>
+    <string name="characters_name">Characters Name</string>
+    <string name="description">Description</string>
+
+    <string name="about_nama">Muhammad Aryodiro Sunaryo</string>
+    <string name="about_email">iamaryodiro@gmail.com</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+
+    <string-array name="data_name">
+        <item>Cloud Strife</item>
+        <item>Aerith Gainsborough</item>
+        <item>Sephiroth</item>
+        <item>Tifa Lockhart</item>
+        <item>Red XIII / Nanaki</item>
+        <item>Berret</item>
+        <item>Zack Fair</item>
+        <item>Rufus Shinra</item>
+        <item>Vincent Valentine</item>
+        <item>Jenova</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Sebagai protagonis utama dalam Final Fantasy VII, Cloud Strife adalah mantan prajurit elite SOLDIER yang bergabung dengan kelompok pemberontak bernama AVALANCHE. Dikenal dengan pedang besar bermata satu dan pakaian khasnya, Cloud memiliki masa lalu yang kompleks dan mengalami transformasi karakter yang mendalam selama perjalanan epiknya untuk menghadapi ancaman besar terhadap planet Gaia. \n\nDia adalah karakter yang saya suka namun kadang karakter ini bodoh sekali, Tetsuya Nomura sungguh menyebalkan dengan tidak memberikan karakter ini end resolve yang baik\n\nOverall: 9/10</item>
+        <item>Aerith Gainsborough, juga dikenal sebagai Aeris, adalah seorang penjaga bunga yang memiliki hubungan khusus dengan kekuatan luar biasa yang mengancam keberlangsungan hidup planet. Karakter yang lembut dan berhati baik ini memiliki peran penting dalam memimpin kelompok untuk melawan kejahatan yang mengancam kehidupan di Gaia. \n\nMy favorite girl in the series, femine and kind hearted girl is the best.\n\nOverall: 12/10</item>
+        <item>Sebagai antagonis utama, Sephiroth adalah prajurit terhebat yang mencari kekuatan luar biasa untuk mengubah dunia. Dikenal dengan pedang besar Masamune dan penampilan yang misterius, Sephiroth menjadi ancaman besar bagi kelompok protagonis dalam perjuangan mereka untuk menyelamatkan dunia dari kehancuran. \n\nVery though gay lord to beat.\n\nOverall: 7/10</item>
+        <item>Sebagai teman masa kecil Cloud dan anggota AVALANCHE, Tifa Lockhart adalah petarung tangguh dengan kekuatan fisik yang luar biasa. Meskipun terlihat kuat dan tegas, Tifa memiliki sisi lembut yang menjadikannya sosok yang sangat dihormati dalam kelompok. \n\nStrong girl..\n\nOverall: 8/10</item>
+        <item>Red XIII, juga dikenal sebagai Nanaki, adalah makhluk aneh yang memiliki kemampuan bicara dan kecerdasan tinggi. Sebagai teman setia dalam perjalanan, Red XIII membantu kelompok dalam menghadapi berbagai tantangan dengan kekuatannya yang unik. \n\nDoggy… \n\nOverall: 9/10</item>
+        <item>Sebagai pemimpin AVALANCHE, Barret Wallace (Berret) adalah pejuang bersemangat dengan senjata berupa senapan gatling melekat pada lengannya. Meskipun keras dan keras kepala, Berret memiliki hati yang besar dan tekad yang kuat untuk melindungi dunia dari ancaman Shinra Corporation \n\nA very big guy… \n\nOverall: 8/10</item>
+        <item>Sebagai karakter yang memiliki keterkaitan dengan Cloud Strife, Zack Fair adalah mantan anggota SOLDIER yang meninggalkan warisan penting dalam kisah Final Fantasy VII. Keberanian dan dedikasinya memainkan peran kunci dalam menginspirasi karakter utama selama perjalanan mereka. \n\nSide Character go Brrr… \n\nOverall: 6/10</item>
+        <item>Sebagai presiden muda dan ambisius dari Shinra Corporation, Rufus Shinra adalah tokoh antagonis yang kuat dan cerdas. Dengan tujuan untuk mempertahankan kekuasaan perusahaan ayahnya, Rufus menjadi ancaman serius bagi kelompok protagonis dalam upaya mereka untuk menyelamatkan planet Gaia.\n\nSide Character go Brrr… \n\nOverall: 6/10</item>
+        <item>Vincent Valentine adalah karakter misterius dengan latar belakang yang gelap. Sebagai mantan anggota Turks dan memiliki kemampuan khusus, Vincent membawa elemen kegelapan dan misteri ke dalam kelompok. Keberadaannya memberikan dimensi tambahan pada cerita yang semakin kompleks. \n\nSide Character go Brrr… \n\nOverall: 9/10</item>
+        <item>Sebagai entitas luar angkasa yang misterius dan berbahaya, Jenova adalah kekuatan jahat yang mengancam kehidupan di planet Gaia. Dengan kemampuan untuk memanipulasi dan mengendalikan individu, Jenova menjadi sumber konflik utama dalam perjalanan kelompok protagonis untuk menyelamatkan dunia. \n\nSide Character but the Villain go Brrr… \n\nOverall: 4/10</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/ff7-rebirth-cloud.jpg</item>
+        <item>https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/7a1d8046707f7377efff93c89a1c5e1e.jpg</item>
+        <item>https://gh.cdn.sewest.net/assets/ident/news/9eb97167/FF7REBIRTH_SGF_05_png_jpgcopy-o6e92uh7x.jpg?quality=65</item>
+        <item>https://images.immediate.co.uk/production/volatile/sites/3/2024/03/FF7-Rebirth-Tifa-903a869.jpg?quality=90&amp;resize=980,654</item>
+        <item>https://gh.cdn.sewest.net/assets/ident/news/fe739bfd/RedXIII_Rebirth-l6ozbj6es.jpg?quality=65</item>
+        <item>https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/final-fantasy-7-barret-wallace-cropped.jpg</item>
+        <item>https://cdn.mos.cms.futurecdn.net/UYZKAiXvmMbtgim6FFnBTh.jpg</item>
+        <item>https://www.psu.com/wp/wp-content/uploads/2023/09/FinalFantasyVIIRufus.jpg</item>
+        <item>https://www.gameshub.com/wp-content/uploads/sites/5/2024/02/vincent-valentine-final-fantasy-7-rebirth.jpg</item>
+        <item>https://static.wikia.nocookie.net/finalfantasy/images/2/22/Jenova_AC_2.jpg/revision/latest?cb=20180722225145</item>
+    </string-array>
+</resources>
